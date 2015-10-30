@@ -17,4 +17,4 @@ describe 'The hubot-jaden script', ->
       expect(@robot.respond).to.have.been.calledWith(/jaden me/i)
 
     it 'jaden latest', ->
-      expect(@robot.respond).to.have.been.caleldWith(/jaden latest/i)
+      expect(@robot.respond).to.have.been.calledWith(/jaden latest/i)

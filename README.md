@@ -1,4 +1,4 @@
-## hubot-yelp
+## hubot-jaden
 
 Enables hubot to give wisdom from Jaden Smith
 
@@ -7,7 +7,7 @@ See [`src/jaden.coffee`](src/jaden.coffee) for full documentation.
 ## Build and Static Analysis
 
 [![Build Status](https://travis-ci.org/pcarn/hubot-jaden.svg)](https://travis-ci.org/pcarn/hubot-jaden)
-[![Codacy Badge](https://api.codacy.com/project/badge/6a56acb4d30644a3993e44199033c029)](https://www.codacy.com/app/pcarn/hubot-jaden)
+[![Codacy Badge](https://api.codacy.com/project/badge/71c4a67da86548a8a6442d1522e5919c)](https://www.codacy.com/app/pcarn9/hubot-jaden)
 
 ## Installation
 
@@ -25,7 +25,7 @@ Then add **hubot-jaden** to your `external-scripts.json`:
 
 ## Configuration
 
-The following configuration is required in order to run the yelp script:
+The following configuration is required in order to run the jaden script:
 
 ```coffeescript
 HUBOT_TWITTER_CONSUMER_KEY         # The Twitter API consumer key
@@ -55,9 +55,9 @@ By using `hubot jaden latest`, hubot will show you Jaden's latest tweet.
 
 ## Powered by
 
-[![Twit]](https://github.com/ttezel/twit)
+[Twit](https://github.com/ttezel/twit)
 
-[![Jaden Smith]](http://twitter.com/officialjaden)
+[Jaden Smith](http://twitter.com/officialjaden)
 
 [![CoffeeScript](http://coffeescript.org/documentation/images/logo.png)](http://coffeescript.org/)
 
