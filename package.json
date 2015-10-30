@@ -1,0 +1,46 @@
+{
+  "name": "hubot-jaden",
+  "description": "Gives wisdom from Jaden Smith.",
+  "version": "1.0.0",
+  "author": "Peter Carnesciali <pcarn9@gmail.com> (http://github.com/pcarn)",
+  "license": "WTFPL",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pcarn/hubot-jaden.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pcarn/hubot-jaden/issues"
+  },
+  "dependencies": {
+    "twit": "1.1.6",
+    "underscore": "1.4.4"
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "coffee-script": "1.6.3",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-mocha-test": "~0.12.7",
+    "grunt-release": "~0.11.0",
+    "hubot": "2.x",
+    "matchdep": "~0.3.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.13.0",
+    "sinon-chai": "^2.7.0",
+    "twit": "1.1.6",
+    "underscore": "1.4.4"
+
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
