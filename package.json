@@ -1,7 +1,7 @@
 {
   "name": "hubot-jaden",
   "description": "Gives wisdom from Jaden Smith.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Peter Carnesciali <pcarn9@gmail.com> (http://github.com/pcarn)",
   "license": "WTFPL",
   "keywords": [

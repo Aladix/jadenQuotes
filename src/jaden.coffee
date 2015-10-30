@@ -12,7 +12,7 @@
 #   hubot jaden me - Wisdom from Jaden Smith
 #
 # Author:
-#   pcarn (pc033461)
+#   pcarn <https://github.com/pcarn>
 
 _ = require "underscore"
 Twit = require "twit"
