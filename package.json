@@ -16,8 +16,8 @@
     "url": "https://github.com/pcarn/hubot-jaden/issues"
   },
   "dependencies": {
-    "twit": "1.1.6",
-    "underscore": "1.4.4"
+    "twit": "1.x",
+    "underscore": "1.x"
   },
   "peerDependencies": {
     "hubot": "2.x"
